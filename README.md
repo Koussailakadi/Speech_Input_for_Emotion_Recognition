@@ -5,7 +5,8 @@ Embedded Emotions-A Data Driven Approach to Learn Transferable Feature Represent
 
 
 Cette article présente une méthode pour l'extraction des caractéristiques automatiquement à partir d’audio et de texte
-Deux systèmes proposés : 
+
+Deux systèmes sont proposés : 
  - un CNN pour capturer les indice émotionnel paralinguistiques 
  - une analyse de transcription de la parole pour détecter les émotions en fonction du contenu sémantique.
 
@@ -26,7 +27,7 @@ L'implémentation de cette partie ce trouve dans le notebook : emotion_recogniti
 L'implémentation de cette partie ce trouve dans le notebook : Linguistic_System.ipynb 
 
 1) Télécharger le fichier .zip Datas et le dézipper
-2) Exécuter le fichier Linguistic_System.ipynb, veillez à bien modifier la ligne de code suivante path = '/content/drive/My Drive/Dataset_text' (en fonction d'ou ce trouve vos données)
+2) Exécuter le fichier Linguistic_System.ipynb, veillez à bien modifier la ligne de code suivante path = '/content/drive/My Drive/Dataset_text' (en fonction d'où ce trouve vos données)
 
 
 ## Auteurs
