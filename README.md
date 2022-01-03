@@ -33,6 +33,8 @@ L'implémentation de cette partie ce trouve dans le notebook : Linguistic_System
 La base de données Crema-D pour le système acoustique est partagé sur drive, donc vous avez juste à ouvrire le notebook dans colab, et de lancer l'éxecution. 
 
 ## Auteurs
+présentation en vidéo: https://drive.google.com/file/d/1n2prQ14DJivSNAPU9Pux7rTjjNT4QFQp/view?usp=sharing
+
 Ruyu GAN - ruyu.gan@etu.sorbonne-universite.fr
 
 Xinyi CUI - xinyi.cui@etu.sorbonne-universite.fr
