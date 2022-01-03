@@ -37,4 +37,4 @@ Xinyi CUI - xinyi.cui@etu.sorbonne-universite.fr
 
 Elisa ZAMBETTA - elisa.zambetta@etu.sorbonne-universite.fr
 
-Koussaila Kadi - koussaila.kadi@etu.sorbonne-universite.fr
+Koussaila KADI - koussaila.kadi@etu.sorbonne-universite.fr
