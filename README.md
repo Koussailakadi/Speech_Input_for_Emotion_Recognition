@@ -9,7 +9,31 @@ Deux systèmes proposés :
  - un CNN pour capturer les indice émotionnel paralinguistiques 
  - une analyse de transcription de la parole pour détecter les émotions en fonction du contenu sémantique.
 
+## Pour commencer
+
+### Pré-requis
+
+Ce projet est fait en JupyterNotebook en Python. Si vous n'avez pas encore vous devez les installé:
+
+- Téléchargez Anaconda à https://docs.anaconda.com/anaconda/install/windows/
+- Téléchargez Python 3 à https://www.python.org/downloads/
+
+## Démarrage
+# Système Acoustique
+L'implémentation de cette partie ce trouve dans le notebook : Linguistic_System.ipynb 
 
 # Système Linguistique 
-L'implémentation de cette partie ce trouve dans le notebook : 
+L'implémentation de cette partie ce trouve dans le notebook : Linguistic_System.ipynb 
 
+1) Télécharger le fichier .zip Datas et le dézipper
+2) Exécuter le fichier Linguistic_System.ipynb, veillez à bien modifier la ligne de code suivante path = '/content/drive/My Drive/Dataset_text' (en fonction d'ou ce trouve vos données)
+
+
+## Auteurs
+Ruyu GAN - ruyu.gan@etu.sorbonne-universite.fr
+
+Xinyi CUI - xinyi.cui@etu.sorbonne-universite.fr
+
+Elisa ZAMBETTA - elisa.zambetta@etu.sorbonne-universite.fr
+
+Koussaila Kadi - koussaila.kadi@etu.sorbonne-universite.fr
