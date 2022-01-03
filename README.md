@@ -20,7 +20,7 @@ Ce projet est fait en JupyterNotebook en Python. Si vous n'avez pas encore vous 
 
 ## Démarrage
 # Système Acoustique
-L'implémentation de cette partie ce trouve dans le notebook : Linguistic_System.ipynb 
+L'implémentation de cette partie ce trouve dans le notebook : emotion_recognition.ipynb
 
 # Système Linguistique 
 L'implémentation de cette partie ce trouve dans le notebook : Linguistic_System.ipynb 
